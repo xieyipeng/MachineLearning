@@ -8,7 +8,7 @@
 """
 
 import math
-import numpy as np
+import numpy as npnp.
 import h5py
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
