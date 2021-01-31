@@ -3,4 +3,5 @@
 venv
 trainingDigits
 testDigits
+dataset
 __pycache__

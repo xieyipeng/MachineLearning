@@ -36,12 +36,12 @@ op1->op2->op3->op4->op5->op6
   * [算法概览](https://github.com/xieyipeng/Ng-MachineLearning/blob/main/lihang/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E7%AE%97%E6%B3%95%E6%A6%82%E8%A7%88.pdf)
   * [./lihang](https://github.com/xieyipeng/Ng-MachineLearning/tree/main/lihang)
 
-> 未完成：
-
 * 周志华《机器学习》
   * 第一遍：略读（完成时间：2020/11/30）
-  * 第二遍：注重公式推导，配合[《南瓜书》](https://github.com/datawhalechina/pumpkin-book)阅读。[在线阅读](https://datawhalechina.github.io/pumpkin-book/#/)
+  * 第二遍：注重公式推导，配合[《南瓜书》](https://github.com/datawhalechina/pumpkin-book)阅读。[在线阅读](https://datawhalechina.github.io/pumpkin-book/#/)（完成时间：2021/01/31）
   * 第三遍：思考为何这样。
+
+> 未完成：
 
 * 《ML-in-action》
 * 《统计学习方法》代码实现
